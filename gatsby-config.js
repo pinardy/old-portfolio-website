@@ -1,7 +1,7 @@
 module.exports = {
     pathPrefix: `/pinardy.github.io`,
     siteMetadata: {
-      title: `Pinardy Yang`,
+      title: `pinardy-yang`,
       author: '@pinardy',
 	  	description: 'real',
 		  homepage: 'https://pinardy.github.io/',
