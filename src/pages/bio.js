@@ -19,6 +19,7 @@ export default ({ data }) => {
     >
     
     <div>
+      
       <h1> Bio </h1>
 
       <p> Based in Singapore, I am major in Information Systems Technology 
@@ -43,7 +44,6 @@ export default ({ data }) => {
 
       <h3> Spirit of Maker </h3>
       <p> TEXT </p>
-
         
     </div>
 
