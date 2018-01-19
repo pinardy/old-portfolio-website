@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "pinardy-website",
+  "description": "Pinardy's personal website",
   "license": "MIT",
   "scripts": {
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
@@ -8,7 +8,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve"
   },
-  "homepage": "https://qlixer.github.io",
+  "homepage": "https://pinardy.github.io",
   "dependencies": {
     "gatsby": "^1.9.153",
     "gatsby-link": "^1.6.34",

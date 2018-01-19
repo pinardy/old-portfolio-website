@@ -1,5 +1,5 @@
 module.exports = {
-    // pathPrefix: '/qlixer.github.io',
+    // pathPrefix: '/pinardy.github.io',
     siteMetadata: {
       title: `Pinardy Yang`,
       author: '@pinardy',
