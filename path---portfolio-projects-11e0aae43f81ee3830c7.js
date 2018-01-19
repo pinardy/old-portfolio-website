@@ -1,0 +1,2 @@
+webpackJsonp([0x79d45c372f9a],{406:function(t,o){t.exports={data:{markdownRemark:{html:'<h3>Portfolio stuff here</h3>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/4SZl1r2O_bY" frameborder="0" allowfullscreen></iframe>',frontmatter:{title:"Portfolio"}}},pathContext:{slug:"/portfolio/projects/"}}}});
+//# sourceMappingURL=path---portfolio-projects-11e0aae43f81ee3830c7.js.map
