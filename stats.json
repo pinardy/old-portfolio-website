@@ -5,20 +5,20 @@
       "component---src-pages-index-js-4b5c3bb14fb0845afb57.js.map"
     ],
     "path---blog": [
-      "path---blog-cc1a8b9681b962b8bf37.js",
-      "path---blog-cc1a8b9681b962b8bf37.js.map"
+      "path---blog-3f3166001ebbdba48284.js",
+      "path---blog-3f3166001ebbdba48284.js.map"
     ],
     "path---": [
       "path----d3ae0500031b0cf35e78.js",
       "path----d3ae0500031b0cf35e78.js.map"
     ],
-    "path---blog-pandas-and-bananas": [
-      "path---blog-pandas-and-bananas-131f4ccf83b23cdf5576.js",
-      "path---blog-pandas-and-bananas-131f4ccf83b23cdf5576.js.map"
-    ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-8957b0a1b18051510c04.js",
       "component---src-pages-contact-js-8957b0a1b18051510c04.js.map"
+    ],
+    "path---blog-md-format": [
+      "path---blog-md-format-dcd4528ef7629cfa6d6f.js",
+      "path---blog-md-format-dcd4528ef7629cfa6d6f.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-8f892849633af9e7202c.js",
@@ -36,13 +36,17 @@
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---blog-website-published": [
+      "path---blog-website-published-4cf55afe45ded3090e6d.js",
+      "path---blog-website-published-4cf55afe45ded3090e6d.js.map"
+    ],
     "component---src-pages-my-files-js": [
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js",
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-525c46915f43bd9c5fd5.js",
-      "path---my-files-525c46915f43bd9c5fd5.js.map"
+      "path---my-files-d0d355046f127fab8c7c.js",
+      "path---my-files-d0d355046f127fab8c7c.js.map"
     ],
     "component---src-pages-bio-js": [
       "component---src-pages-bio-js-3849db502921b3054893.js",
@@ -59,34 +63,22 @@
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---portfolio": [
-      "path---portfolio-cc1a8b9681b962b8bf37.js",
-      "path---portfolio-cc1a8b9681b962b8bf37.js.map"
+      "path---portfolio-3f3166001ebbdba48284.js",
+      "path---portfolio-3f3166001ebbdba48284.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
       "path---bio-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-5d506646c93536092576.js",
-      "component---src-pages-blog-js-5d506646c93536092576.js.map"
-    ],
-    "path---bio-biopost-2": [
-      "path---bio-biopost-2-4ec3fb5d23645e4ff45d.js",
-      "path---bio-biopost-2-4ec3fb5d23645e4ff45d.js.map"
+      "component---src-pages-blog-js-ea35ff981ded8f2ff28c.js",
+      "component---src-pages-blog-js-ea35ff981ded8f2ff28c.js.map"
     ],
     "app": [
-      "app-ebd640028ed27ff9001a.js",
+      "app-e394ceeeed87cf568477.js",
       "build-js-styles.css",
-      "app-ebd640028ed27ff9001a.js.map",
+      "app-e394ceeeed87cf568477.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---blog-sweet-pandas-eating-sweets": [
-      "path---blog-sweet-pandas-eating-sweets-4dcc44f15c80022aa3cd.js",
-      "path---blog-sweet-pandas-eating-sweets-4dcc44f15c80022aa3cd.js.map"
-    ],
-    "path---bio-biopost-1": [
-      "path---bio-biopost-1-5aa34d9b1022eceb675e.js",
-      "path---bio-biopost-1-5aa34d9b1022eceb675e.js.map"
     ],
     "component---src-pages-portfolio-js": [
       "component---src-pages-portfolio-js-8a707266e43f467bfb3d.js",
