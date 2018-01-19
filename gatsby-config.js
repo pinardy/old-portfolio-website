@@ -1,5 +1,4 @@
 module.exports = {
-    pathPrefix: '/pinardy.github.io',
     siteMetadata: {
       title: `Pinardy Yang`,
       author: '@pinardy',
@@ -21,14 +20,5 @@ module.exports = {
           pathToConfigModule: `src/utils/typography.js`,
         },
       },
-      {
-        resolve: 'gatsby-plugin-github-pages',
-        options: {
-          customDomain: 'https://pinardy.github.io/',
-          publishOptions: {
-            /* ... */
-          }
-        }
-      }
     ],
   };
