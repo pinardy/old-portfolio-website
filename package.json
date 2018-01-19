@@ -3,7 +3,7 @@
   "description": "Pinardy's personal website",
   "license": "MIT",
   "scripts": {
-    "deploy": "gatsby build --prefix-paths",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve"
