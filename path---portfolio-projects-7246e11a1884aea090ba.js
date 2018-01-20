@@ -1,0 +1,2 @@
+webpackJsonp([0x79d45c372f9a],{406:function(t,o){t.exports={data:{markdownRemark:{html:"<p>WIP</p>",frontmatter:{title:"Portfolio"}}},pathContext:{slug:"/portfolio/projects/"}}}});
+//# sourceMappingURL=path---portfolio-projects-7246e11a1884aea090ba.js.map
