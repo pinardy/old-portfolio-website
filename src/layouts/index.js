@@ -37,7 +37,7 @@ export default ({ children, data }) => (
             <ListLink to="/bio/">Bio</ListLink>
             <ListLink to="/portfolio/">Portfolio</ListLink>
             <ListLink to="/blog/">Blog</ListLink>
-            <ListLink to="/contact/">Contact</ListLink>
+            <ListLink to="/cv/">C.V.</ListLink>
         </ul>
         
     </header>

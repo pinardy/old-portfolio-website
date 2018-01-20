@@ -29,16 +29,17 @@ export default ({ data }) => {
       }}
     > 
     <div>
-      <h4> This portfolio contains projects that I have done
-          over the course of my education in SUTD.  </h4>
+      <h5> 
+        This portfolio contains projects that I have done over the course of my 
+        education in SUTD. Projects range from Machine Learning to Internet of Things 
+      </h5>
 
-      <h5> Projects are from fields ranging from Machine Learning to Internet of Things</h5>
 
       {d.map(({ node }) => (
         <div key={node.id}>
           <Link
             to={node.fields.slug}
-            css={{ textDecoration: `none`, color: `inherit` }}
+            css={{ textDecoration: `blue`, color: `inherit` }}
           >
             <p>View projects</p>
           </Link>

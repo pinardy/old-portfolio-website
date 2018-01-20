@@ -29,7 +29,7 @@ export default ({ data }) => {
         <img src={displayPic} alt="displayPic" />
         <p> 
           I am currently an undergraduate student at SUTD 
-          under the Information Systems and Design (ISTD) pillar. 
+          under the Information Systems and Design (ISTD) major. 
           I am looking to specialise in <i>Business Analytics</i> in SUTD, 
           and will be graduating in August 2018 
         </p>
