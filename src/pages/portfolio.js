@@ -8,15 +8,6 @@ import { rhythm } from "../utils/typography";
 import Link from "gatsby-link"
 
 
-/* <FadeIn
-x={{
-    start: 40,
-    end: 0,
-    stiffness: 70,
-    damping: 20,
-  }}
-> */
-
 export default ({ data }) => {
   console.log(data);
 

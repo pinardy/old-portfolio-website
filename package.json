@@ -23,6 +23,7 @@
     "react-headroom": "^2.2.2",
     "react-loading-overlay": "^0.2.8",
     "react-motion": "^0.5.2",
+    "typography-plugin-code": "^0.16.11",
     "typography-theme-fairy-gates": "^0.15.11",
     "typography-theme-kirkham": "^0.16.3"
   }

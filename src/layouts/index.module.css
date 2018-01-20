@@ -1,0 +1,300 @@
+.btn {
+	background-color: Transparent;
+	background-repeat: no-repeat;
+	border: none;
+	outline: none;
+}
+
+.menuBtn {
+	display: inline-block;
+	float: right;
+	opacity: 0.3;
+	margin-top: 0.1rem;
+	transition: 0.5s;
+	-webkit-transition: opacity 0.5s;
+}
+
+.menuIcon {
+	width: 20px;
+	max-height: 15px;
+}
+
+.menuBtn:hover,
+.menuBtn:focus {
+	opacity: 0.9;
+}
+
+.navItem {
+	margin-top: 0;
+	float: right;
+	letter-spacing: 0.1rem;
+}
+
+.navDevider {
+	margin-top: 0;
+	float: right;
+	letter-spacing: 0;
+}
+
+.logoLink {
+	width: inherit;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.flashLogo {
+	display: inline;
+	height: 1.2rem;
+	margin: 0 0.3rem 0.48rem 0;
+	opacity: 0.8;
+}
+
+.navLogo {
+	display: inline;
+	position: relative;
+}
+
+.navLogo h3 {
+	display: inline;
+	position: relative;
+	top: -0.6rem;
+	font-size: 1.3rem;
+}
+
+.signBlackContainer {
+	display: inline;
+}
+
+.signBlack {
+	display: 'inline';
+	height: 2rem;
+	margin: 0 1rem 0 0;
+}
+
+.expandMenu {
+	margin-top: 0.2rem;
+}
+
+/***
+NavBar
+***/
+
+.navContainer {
+	display: block;
+	padding-bottom: 1rem;
+}
+
+.navLink.inactive:hover h4 {
+	opacity: 1;
+
+	-webkit-transition: opacity 0.3s ease;
+	-moz-transition: opacity 0.3s ease;
+	-ms-transition: opacity 0.3s ease;
+	-o-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
+}
+
+.navLink.active h4,{
+	opacity: 1;
+	/*color: rgba(43, 55, 15, 1);*/
+}
+
+.navLink.inactive h4 {
+	opacity: 0.4;
+
+	-webkit-transition: opacity 0.3s ease;
+	-moz-transition: opacity 0.3s ease;
+	-ms-transition: opacity 0.3s ease;
+	-o-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
+}
+
+.fixedHeader {
+	color: rgba(255, 255, 255, 1);
+	position: fixed;
+	width: 93%;
+	/*width: inherit;*/
+	top: 1rem;
+	z-index: 2;
+
+}
+.fixedNavBar {
+	width: inherit;
+}
+
+
+.stickyBackground {
+	/*background-image: url('../../assets/images/noise.png');*/
+	position: fixed;
+	width: 100%;
+	height: 3.5rem;
+	top: -4rem;
+	left: 0;
+	z-index: 1;
+	background-color: rgba(242, 241, 245, 0.8);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	-webkit-transition: top 0.5s ease;
+  -moz-transition: top 0.5s ease;
+  -ms-transition: top 0.5s ease;
+  -o-transition: top 0.5s ease;
+  transition: top 0.5s ease;
+}
+
+.appear {
+	top: 0;
+}
+
+
+/***
+Footer
+***/
+
+.body {
+	position: relative;
+	min-height: 90%;
+	margin-bottom: -20px; /* Equivalent to footer's height */
+	padding-bottom: 20px; /* Equivalent to footer's height */
+	box-sizing: border-box;
+}
+
+.footerContainer {
+	position: relative;
+	margin-bottom: 0;
+	height: 30px;
+	width: 100%;
+}
+
+.footerContent {
+	margin: 0;
+	text-align: center;
+	font-size: 0.7rem;
+	letter-spacing: 0.12rem;
+	color: rgba(0, 0, 0, 0.4);
+}
+
+
+@media screen and (max-height: 740px) {
+	.body {
+		min-height: 89%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.body {
+		min-height: 93%;
+	}
+}
+
+/***
+Layout
+***/
+
+.layout {
+	width: 90%;
+	/*width: 800px;*/
+	height:98%;
+	/*max-width: 1100px;*/
+	margin: auto;
+	margin-bottom: -20px;
+	padding-bottom: 20px;
+	padding: 1.25rem 1.0rem;
+}
+
+@media screen and (max-width: 1224px) {
+	.layout {
+		width: 82%;
+	}
+
+	.menuBtn {
+		margin-top: 0rem;
+	}
+
+	.fixedHeader {
+		width: 87%;
+	}
+
+	.fixedNavBar {
+		width: inherit;
+	}
+}
+
+@media screen and (max-width: 790px) {
+	.expandMenu {
+		margin-top: 0rem;
+	}
+
+	.stickyBackground {
+		height: 3rem;
+	}
+}
+
+@media screen and (max-width: 768px) {
+
+	.signBlack {
+		display: none;
+		/*height: 2.0rem;*/
+	}
+
+	.layout {
+		width: 95%;
+	}
+
+	.fixedHeader {
+		width: 94%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.signBlack {
+		/*display: none;*/
+	}
+	.layout {
+		width: 100%;
+	}
+
+	.menuBtn {
+		margin-top: -0.1rem;
+	}
+
+	.menuIcon {
+		width: 15px;
+		max-height: 15px;
+	}
+
+	.flashLogo {
+		display: 'inline';
+		height: 1.0rem;
+		margin: 0 0.8rem 0.4rem 0;
+		opacity: 0.8;
+	}
+
+	.navLogo h3 {
+		top: -0.5rem;
+		font-size: 1.2rem;
+	}
+
+	.fixedHeader {
+		width: 95%;
+	}
+
+	.stickyBackground {
+		height: 2.7rem;
+	}
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-width: 999px) {
+	.expandMenu {
+		display: none;
+	}
+}
+
+@media screen and (min-width: 1000px) {
+	.menuBtn {
+		display: none;
+	}
+}

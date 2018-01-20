@@ -13,7 +13,6 @@ import ghIcon from '../assets/images/gh-icon.svg';
 import mdIcon from '../assets/images/medium-icon.svg';
 
 
-
 export default ({ data }) => {
   console.log(data);
   return (
@@ -37,7 +36,7 @@ export default ({ data }) => {
 
         <p> 
           My area of interests lie in <i>data analytics</i>, 
-          <i> machine learning</i> and <i>artificial intelligence</i>
+          <i> machine learning</i> and <i>web development</i>
         </p>
     </div>
 
