@@ -21,11 +21,11 @@ export default class HTML extends React.Component {
     <head>
       <meta charSet="utf-8" />
       <meta name="viewport"           content="width=device-width, initial-scale=1.0" />
-      <meta name="description"        content="Software Engineer" />
+      <meta name="description"        content="Coder | Artists | AI" />
       <meta property="og:type"        content="personal.website" />
       <meta property="og:url"         content="https://pinardy.github.io/" />
-      <meta property="og:title"       content="Pinardy Yang" />
-      <meta property="og:description" content="Software Engineer" />
+      <meta property="og:title"       content="Vibert Thio" />
+      <meta property="og:description" content="Coder | AI" />
       <meta
         property="og:image"
         content="https://github.com/pinardy/pinardy.github.io/blob/source/src/assets/images/cafe_piano.jpg"
