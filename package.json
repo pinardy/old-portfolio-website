@@ -21,6 +21,7 @@
     "glamorous": "^4.11.3",
     "react-fade": "^1.1.1",
     "react-headroom": "^2.2.2",
+    "react-html-parser": "^2.0.2",
     "react-loading-overlay": "^0.2.8",
     "react-motion": "^0.5.2",
     "typography-plugin-code": "^0.16.11",
