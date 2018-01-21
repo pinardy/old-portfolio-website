@@ -19,6 +19,7 @@
     "gatsby-transformer-remark": "^1.7.28",
     "gh-pages": "^1.1.0",
     "glamorous": "^4.11.3",
+    "invariant": "^2.2.2",
     "react-fade": "^1.1.1",
     "react-headroom": "^2.2.2",
     "react-html-parser": "^2.0.2",
