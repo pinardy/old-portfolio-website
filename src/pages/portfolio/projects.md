@@ -12,6 +12,7 @@ date: "2018-01-17"
 Through the interfacing of the Raspberry Pi 3 with sensors and devices, the Smart Room aims to automate tasks such as turning on/off the lights and aircon. The Smart Room accounts for users who forget to switch off the lights and aircon. Algorithms are designed carefully to provide a smooth and undisruptive experience to the users.
 
 <hr>
+<!-- -------------------------------------------------------- -->
 
 ##### Luminous (Multiplayer Android Game)
 > Feb 2017 - May 2017
@@ -26,6 +27,7 @@ The world has been corrupted with shadows. It is up to you (and your team) to pr
 This project allowed me to practice good software programmming practices such as Git version control, Object-Oriented arrangement of game objects, testing, and more.
 
 <hr>
+<!-- -------------------------------------------------------- -->
 
 ##### Booklink (Web App)
 > Oct 2017 - Dec 2017
@@ -39,6 +41,7 @@ This project allowed me to practice good software programmming practices such as
 Made using Django, Booklink allows avid book readers to shop for their favourite books, while checking out other books in a seamless experience. Python and SQL are used extensively in this project. 
 
 <hr>
+<!-- -------------------------------------------------------- -->
 
 ##### Travelpedia
 > Oct 2016 
@@ -56,6 +59,7 @@ Travelpedia was created to aid tourists in their stay in Singapore. Tourists can
 Travelpedia was created on Android Studio
 
 <hr>
+<!-- -------------------------------------------------------- -->
 
 ##### Classy
 > Nov 2016 - Dec 2016
@@ -72,6 +76,7 @@ Classy aims to encourage communication between teacher and student, hence enhanc
 Classy was created on Android Studio.
 
 <hr>
+<!-- -------------------------------------------------------- -->
 
 ##### Sentiment Analysis
 > Oct 2017 - Dec 2017
@@ -84,4 +89,15 @@ The aim of this sentiment analysis project is to design a sequence labelling mod
 
 The Hidden Markov Model was designed from scratch using the Python programming language, with the aid of numpy and pandas.
 
+<hr>
+<!-- -------------------------------------------------------- -->
 
+##### Gesture
+> June 2016 - Aug 2016
+
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/sentiment-analysis.jpg" alt="smartroom" width="300" height="150">
+
+The text text text text
+
+<hr>
+<!-- -------------------------------------------------------- -->
