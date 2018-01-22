@@ -95,9 +95,9 @@ The Hidden Markov Model was designed from scratch using the Python programming l
 ##### Gesture
 > June 2016 - Aug 2016
 
-<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/sentiment-analysis.jpg" alt="smartroom" width="300" height="150">
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/gesture_ui.png" alt="smartroom" width="300" height="150">
 
-The text text text text
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/gesture.JPG" alt="smartroom" width="150" height="130">
 
-<hr>
-<!-- -------------------------------------------------------- -->
+There is a barrier between musicians and non-musicians in having fun jamming together. Gesture is a musical platform created to allow users with little to no musical background to jam together with friends and have fun. Gesture is created on Unreal Engine with the use of a Leap motion sensor, bringing the user into virtual reality. 
+
