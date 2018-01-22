@@ -68,8 +68,9 @@ During class, teachers have experienced occasions where there is no class partic
 ##### Sentiment Analysis
 > Oct 2017 - Dec 2017
 
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/sentiment-analysis.jpg" alt="smartroom" width="300" height="200">
+
 <a href="https://github.com/pinardy/sentiment-analysis">Source code</a>
-<br>
 
 The aim of this sentiment analysis project is to design a sequence labelling model for informal texts using the Hidden Markov Model (HMM). The sequence labelling system for informal texts can serve as the very first step towards building a more complex, intelligent sentiment analysis system for social media text.
 
