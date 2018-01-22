@@ -25,7 +25,7 @@ The world has been corrupted with shadows. It is up to you (and your team) to pr
 
 <hr>
 
-##### Bookstore Web App
+##### Booklink (Web App)
 > Oct 2017 - Dec 2017
 
 <a href="https://github.com/pinardy/DB-Project/">Source code</a>
@@ -39,6 +39,9 @@ Made using Django, this web app allows avid book readers to shop for their favou
 
 ##### Travelpedia
 > Oct 2016 
+
+<a href="https://github.com/pinardy/Travelpedia/">Source code</a>
+<br>
 
 <img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/pages/portfolio/portfolio/travelpedia.png" alt="smartroom" width="200" height="80">
 <br>
