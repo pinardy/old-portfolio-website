@@ -5,8 +5,8 @@
       "component---src-pages-index-js-6a147ff9386dbe93d2d5.js.map"
     ],
     "path---blog": [
-      "path---blog-d7e1ea60c170adfc41c9.js",
-      "path---blog-d7e1ea60c170adfc41c9.js.map"
+      "path---blog-088a29c93929c7176a1c.js",
+      "path---blog-088a29c93929c7176a1c.js.map"
     ],
     "path---cv": [
       "path---cv-a0e39f21c11f6a62c5ab.js",
@@ -45,12 +45,12 @@
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-f613e4670def7f63fca3.js",
-      "path---my-files-f613e4670def7f63fca3.js.map"
+      "path---my-files-416121617465bc1d2181.js",
+      "path---my-files-416121617465bc1d2181.js.map"
     ],
     "component---src-pages-bio-js": [
-      "component---src-pages-bio-js-48fb3810f4a5019e6032.js",
-      "component---src-pages-bio-js-48fb3810f4a5019e6032.js.map"
+      "component---src-pages-bio-js-95c2d4bbcddc7729add2.js",
+      "component---src-pages-bio-js-95c2d4bbcddc7729add2.js.map"
     ],
     "commons": [
       "commons-6cbe0b13c02af7520b9b.js",
@@ -63,8 +63,8 @@
       "component---src-pages-cv-js-dd60c868625f9768db5b.js.map"
     ],
     "path---portfolio": [
-      "path---portfolio-d7e1ea60c170adfc41c9.js",
-      "path---portfolio-d7e1ea60c170adfc41c9.js.map"
+      "path---portfolio-088a29c93929c7176a1c.js",
+      "path---portfolio-088a29c93929c7176a1c.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
@@ -75,9 +75,9 @@
       "component---src-pages-blog-js-1c4ee62e5600d2183d04.js.map"
     ],
     "app": [
-      "app-80bc1af5d2b777ef78bc.js",
+      "app-493e3057325cf773cd6a.js",
       "build-js-styles.css",
-      "app-80bc1af5d2b777ef78bc.js.map",
+      "app-493e3057325cf773cd6a.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-portfolio-js": [
