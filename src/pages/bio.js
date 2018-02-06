@@ -35,7 +35,7 @@ export default ({ data }) => {
             I started programming when I entered into university. Although it has only been two years,
             I have been exposed to many different fields such as data science, internet-of-things, 
             app development, and more. I am always curious about the possibilities with technology.
-            As I approach into my final year of studies at SUTD, I am focusing more on data science 
+            As I approach into my final year of studies at SUTD, I am focusing more on machine learning 
             and web development.
           </p>
 
