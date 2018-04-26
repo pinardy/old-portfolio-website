@@ -1,7 +1,32 @@
 ---
 title: Portfolio
-date: "2018-01-17"
+date: "2018-04-10"
 ---
+##### Google ScholarPlus (Chrome Extension)
+> Feb 2018 - Apr 2018
+
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/game_main.jpg" alt="game" width="400" height="230">
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/game_1.png" alt="game" width="400" height="230">
+
+Academic Search engines are commonly used for research. Google Scholar is one popular option for searching for scholarly articles. ScholarPlus aims to redesign the Google Scholar's user interface to improve the search experience. 
+
+The ScholarPlus extension can be found <a href="https://chrome.google.com/webstore/detail/scholar%2B/jebcfbhiogjccfdaghbngjolfofckgkn?hl=en-US&gl=SG&authuser=2">here</a>
+
+<hr>
+<!-- -------------------------------------------------------- -->
+
+##### Super Image Resolution
+> Feb 2018 - Apr 2018
+
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/game_main.jpg" alt="game" width="400" height="230">
+
+
+Classification for deep learning models might not work well with low-resolution images. We hypothesize that Super Resolution would improve the model’s ability to classify more accurately if the the model was trained with images preprocessed by Super Resolution performed for low quality images was used. As there are many options to build the model, we explore possible techniques and compare which image Super Resolution models will improve image classification models the most.
+
+This project makes use of the Super Resolution GAN proposed by Ledig and his team. His paper can be found <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf">here</a>
+
+<hr>
+<!-- -------------------------------------------------------- -->
 
 ##### Smart Room
 > Mar 2016 - May 2016
