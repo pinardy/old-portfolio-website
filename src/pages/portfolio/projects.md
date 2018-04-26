@@ -17,8 +17,8 @@ The ScholarPlus extension can be found in the Chrome Extension store <a href="ht
 ##### Super Image Resolution
 > Feb 2018 - Apr 2018
 
-<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/trained_images_novggloss.gif" alt="game" width="100" height="300">
-
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/srgan_4_start.gif" alt="game" width="250" height="300">
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/srgan_8_epoch0start.gif" alt="game" width="250" height="300">
 
 Classification for deep learning models might not work well with low-resolution images. We hypothesize that Super Resolution would improve the model’s ability to classify more accurately if the the model was trained with images preprocessed by Super Resolution performed for low quality images was used. As there are many options to build the model, we explore possible techniques and compare which image Super Resolution models will improve image classification models the most.
 
