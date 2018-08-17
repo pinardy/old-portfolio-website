@@ -28,15 +28,10 @@ export default ({ data }) => {
     <div>
         <img src={displayPic} alt="displayPic" />
         <p> 
-          I am currently an undergraduate student at SUTD 
+          I am a fresh graduate from SUTD 
           under the Information Systems and Design (ISTD) major. 
-          I am looking to specialise in <i>Business Analytics</i> in SUTD, 
-          and will be graduating in August 2018 
-        </p>
-
-        <p> 
-          My area of interests lie in <i>data analytics</i>, 
-          <i> machine learning</i> and <i>web development</i>
+          I am looking to improve myself in the areas of web development 
+          and software engineering. 
         </p>
     </div>
 

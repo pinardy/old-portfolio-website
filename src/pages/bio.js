@@ -33,10 +33,8 @@ export default ({ data }) => {
       <h3> Technical Background </h3>
           <p> 
             I started programming when I entered into university. Although it has only been two years,
-            I have been exposed to many different fields such as data science, internet-of-things, 
-            app development, and more. I am always curious about the possibilities with technology.
-            As I approach into my final year of studies at SUTD, I am focusing more on machine learning 
-            and web development.
+            I have been exposed to many different fields such as web development, data science, internet-of-things  
+            and more. I am always curious about the possibilities with technology.
           </p>
 
       <h3> Musical Soul </h3>
@@ -49,8 +47,8 @@ export default ({ data }) => {
 
       <h3> Sports </h3>
           <p> 
-            I enjoy playing badminton, and joined the badminton club in SUTD. I often aim to 
-            play badminton at least once a week as my way to keep myself fit and healthy. 
+            I enjoy playing badminton, and joined the badminton club in SUTD. 
+            I also jog and swim occasionally.
           </p>
 
       <h3> Gamer </h3>
