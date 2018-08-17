@@ -1,5 +1,5 @@
 ---
-title: "Markdown Formatting"
+title: Markdown Formatting
 date: "2018-01-19"
 ---
 

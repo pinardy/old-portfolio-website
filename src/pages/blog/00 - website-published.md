@@ -1,5 +1,5 @@
 ---
-title: Website published!
+title: Website published
 date: "2018-01-19"
 ---
 

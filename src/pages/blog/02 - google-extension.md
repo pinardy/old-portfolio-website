@@ -1,5 +1,5 @@
 ---
-title: Chrome Extension App 
+title: Chrome Extension App
 date: "2018-04-26"
 ---
 
