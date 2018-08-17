@@ -5,12 +5,12 @@
       "path---blog-google-extension-c258f128174cc87b148b.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-7725bfbae164ba49d193.js",
-      "component---src-pages-index-js-7725bfbae164ba49d193.js.map"
+      "component---src-pages-index-js-48b6a036d4fde4d6a6a9.js",
+      "component---src-pages-index-js-48b6a036d4fde4d6a6a9.js.map"
     ],
     "path---blog": [
-      "path---blog-2a8c73e3b389831abb7a.js",
-      "path---blog-2a8c73e3b389831abb7a.js.map"
+      "path---blog-b0b7cb96a4cc84a80cf8.js",
+      "path---blog-b0b7cb96a4cc84a80cf8.js.map"
     ],
     "path---cv": [
       "path---cv-a0e39f21c11f6a62c5ab.js",
@@ -33,8 +33,8 @@
       "component---src-layouts-index-js-d6470fca2d991d5eb794.js.map"
     ],
     "path---portfolio-projects": [
-      "path---portfolio-projects-d3273776bf36c373fea2.js",
-      "path---portfolio-projects-d3273776bf36c373fea2.js.map"
+      "path---portfolio-projects-83dd8c5b74bb48347887.js",
+      "path---portfolio-projects-83dd8c5b74bb48347887.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -49,12 +49,12 @@
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-6ed77915fff5dcc52cee.js",
-      "path---my-files-6ed77915fff5dcc52cee.js.map"
+      "path---my-files-a151c317d352665f3f12.js",
+      "path---my-files-a151c317d352665f3f12.js.map"
     ],
     "component---src-pages-bio-js": [
-      "component---src-pages-bio-js-f46d88407765a94b53f6.js",
-      "component---src-pages-bio-js-f46d88407765a94b53f6.js.map"
+      "component---src-pages-bio-js-78f6625318ec5dc83fdf.js",
+      "component---src-pages-bio-js-78f6625318ec5dc83fdf.js.map"
     ],
     "commons": [
       "commons-6cbe0b13c02af7520b9b.js",
@@ -63,12 +63,12 @@
       "build-js-styles.css.map"
     ],
     "component---src-pages-cv-js": [
-      "component---src-pages-cv-js-9a707e71019c421f9f88.js",
-      "component---src-pages-cv-js-9a707e71019c421f9f88.js.map"
+      "component---src-pages-cv-js-9edb340657db37386b5d.js",
+      "component---src-pages-cv-js-9edb340657db37386b5d.js.map"
     ],
     "path---portfolio": [
-      "path---portfolio-2a8c73e3b389831abb7a.js",
-      "path---portfolio-2a8c73e3b389831abb7a.js.map"
+      "path---portfolio-b0b7cb96a4cc84a80cf8.js",
+      "path---portfolio-b0b7cb96a4cc84a80cf8.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
