@@ -6,7 +6,7 @@ date: "2018-04-10"
 ##### Cricket Dashboard
 > May 2018 - August 2018
 
-<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/scholarplus.PNG" alt="game" width="800" height="350"> 
+<img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/cricdashboard.png" alt="game" width="800" height="350"> 
 
 There is a lack of customisable platform which provides data with meaningful insights for both cricket fans and teams. Hence, this dashboard was created as a final year project at SUTD to tackle this problem. 
 
