@@ -1,16 +1,20 @@
 {
   "assetsByChunkName": {
-    "path---blog-google-extension": [
-      "path---blog-google-extension-c258f128174cc87b148b.js",
-      "path---blog-google-extension-c258f128174cc87b148b.js.map"
+    "path---blog-02-google-extension": [
+      "path---blog-02-google-extension-563384215551a27e5aaf.js",
+      "path---blog-02-google-extension-563384215551a27e5aaf.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-48b6a036d4fde4d6a6a9.js",
       "component---src-pages-index-js-48b6a036d4fde4d6a6a9.js.map"
     ],
+    "path---blog-03-graduated": [
+      "path---blog-03-graduated-9903a1b232bf07791b9b.js",
+      "path---blog-03-graduated-9903a1b232bf07791b9b.js.map"
+    ],
     "path---blog": [
-      "path---blog-b0b7cb96a4cc84a80cf8.js",
-      "path---blog-b0b7cb96a4cc84a80cf8.js.map"
+      "path---blog-a2fdaf212871a551f2e8.js",
+      "path---blog-a2fdaf212871a551f2e8.js.map"
     ],
     "path---cv": [
       "path---cv-a0e39f21c11f6a62c5ab.js",
@@ -20,37 +24,37 @@
       "path----d3ae0500031b0cf35e78.js",
       "path----d3ae0500031b0cf35e78.js.map"
     ],
-    "path---blog-md-format": [
-      "path---blog-md-format-13bfaa3bb08104beefc4.js",
-      "path---blog-md-format-13bfaa3bb08104beefc4.js.map"
+    "path---blog-00-website-published": [
+      "path---blog-00-website-published-06e56882d502d51bce22.js",
+      "path---blog-00-website-published-06e56882d502d51bce22.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-465fa466baef9c4129e5.js",
       "component---src-templates-blog-post-js-465fa466baef9c4129e5.js.map"
+    ],
+    "path---blog-01-md-format": [
+      "path---blog-01-md-format-ece7a1ee865a0f8ab652.js",
+      "path---blog-01-md-format-ece7a1ee865a0f8ab652.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-d6470fca2d991d5eb794.js",
       "component---src-layouts-index-js-d6470fca2d991d5eb794.js.map"
     ],
     "path---portfolio-projects": [
-      "path---portfolio-projects-83dd8c5b74bb48347887.js",
-      "path---portfolio-projects-83dd8c5b74bb48347887.js.map"
+      "path---portfolio-projects-b0feef2040c044a99f9b.js",
+      "path---portfolio-projects-b0feef2040c044a99f9b.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---blog-website-published": [
-      "path---blog-website-published-4cf55afe45ded3090e6d.js",
-      "path---blog-website-published-4cf55afe45ded3090e6d.js.map"
     ],
     "component---src-pages-my-files-js": [
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js",
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-a151c317d352665f3f12.js",
-      "path---my-files-a151c317d352665f3f12.js.map"
+      "path---my-files-87878dbe06486783c825.js",
+      "path---my-files-87878dbe06486783c825.js.map"
     ],
     "component---src-pages-bio-js": [
       "component---src-pages-bio-js-78f6625318ec5dc83fdf.js",
@@ -63,12 +67,12 @@
       "build-js-styles.css.map"
     ],
     "component---src-pages-cv-js": [
-      "component---src-pages-cv-js-9edb340657db37386b5d.js",
-      "component---src-pages-cv-js-9edb340657db37386b5d.js.map"
+      "component---src-pages-cv-js-475722734ba29fa203fe.js",
+      "component---src-pages-cv-js-475722734ba29fa203fe.js.map"
     ],
     "path---portfolio": [
-      "path---portfolio-b0b7cb96a4cc84a80cf8.js",
-      "path---portfolio-b0b7cb96a4cc84a80cf8.js.map"
+      "path---portfolio-a2fdaf212871a551f2e8.js",
+      "path---portfolio-a2fdaf212871a551f2e8.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
@@ -79,9 +83,9 @@
       "component---src-pages-blog-js-1c4ee62e5600d2183d04.js.map"
     ],
     "app": [
-      "app-21af5e2dcb7bb6f8f915.js",
+      "app-f8ed1e1b39620cf6710f.js",
       "build-js-styles.css",
-      "app-21af5e2dcb7bb6f8f915.js.map",
+      "app-f8ed1e1b39620cf6710f.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-portfolio-js": [
