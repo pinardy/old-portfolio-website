@@ -14,6 +14,7 @@ This project makes use of ReactJS as the frontend and Django as the backend, wit
 
 <hr>
 <!-- -------------------------------------------------------- -->
+
 ##### Google ScholarPlus (Chrome Extension)
 > Feb 2018 - Apr 2018
 

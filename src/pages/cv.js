@@ -15,7 +15,7 @@ export default () => (
 
     <p>
       To view my resume, click 
-      <a href="https://drive.google.com/open?id=1KrVutxSalZXgjw2om0KeXQAX8AJgDg8l"> here </a>
+      <a href="https://drive.google.com/open?id=1KrVutxSalZXgjw2om0KeXQAX8AJgDg8l" target="_blank"> here </a>
     </p>
 
     <h4>
