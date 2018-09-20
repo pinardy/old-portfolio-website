@@ -40,13 +40,13 @@ This project makes use of the Super Resolution GAN proposed by Ledig and his tea
 <hr>
 <!-- -------------------------------------------------------- -->
 
-##### Smart Room
-> Mar 2016 - May 2016
+##### Smart Office
+> May 2017 - Aug 2017
 
 <img src="https://raw.githubusercontent.com/pinardy/pinardy.github.io/source/src/assets/images/projects/Front-AngledView.PNG" alt="smartroom1" width="350" height="300">
 <img src="https://github.com/pinardy/pinardy.github.io/blob/source/src/assets/images/projects/Front-View.PNG?raw=true" alt="smartroom2" width="350" height="300">
 
-Through the interfacing of the Raspberry Pi 3 with sensors and devices, the Smart Room aims to automate tasks such as turning on/off the lights and aircon. The Smart Room accounts for users who forget to switch off the lights and aircon. Algorithms are designed carefully to provide a smooth and undisruptive experience to the users.
+Through the interfacing of the Raspberry Pi 3 with sensors and devices, the Smart Office aims to save electricity by automating tasks such as turning on/off the lights and aircon. The Smart Office accounts for users who forget to switch off the lights or aircon. Algorithms are designed to provide a smooth and undisruptive experience to the users.
 
 <hr>
 <!-- -------------------------------------------------------- -->
