@@ -19,8 +19,8 @@ export default ({ data }) => {
       <div>
         <h1> Bio </h1>
         <p>
-          Based in Singapore, I am major in Information Systems Technology and
-          Design in Singapore University of Technology and Design (SUTD).
+          I graduated with a major in Information Systems Technology and Design
+          from Singapore University of Technology and Design (SUTD).
         </p>
 
         <p>
@@ -38,17 +38,17 @@ export default ({ data }) => {
 
         <h3> Musical Soul </h3>
         <p>
-          I started learning the piano when I was around 8 years old. I
-          continued learning the piano, and joined the chinese orchestra in my
-          secondary school and junior college, learning different instruments
-          such as the yangqin, suona, sheng (pipes) and percussion instruments.
-          In my own free time, I play the acoustic guitar as well.
+          Music has always been a part of me from young. I started learning the
+          piano from primary school. I joined the chinese orchestra in my middle
+          and high school, learning different chinese instruments In my own free
+          time, I play the acoustic guitar as well. I am still actively playing
+          the piano leisurely.
         </p>
 
         <h3> Sports </h3>
         <p>
-          I believe fitness is a lifestyle. I enjoy playing badminton, and
-          joined the badminton club in SUTD. I also jog and swim occasionally.
+          I believe fitness is a lifestyle. I jog and swim regularly to keep
+          myself fit. I enjoy playing badminton as well.
         </p>
 
         <h3> Gamer </h3>
@@ -65,9 +65,9 @@ export default ({ data }) => {
         </p>
 
         <p>
-          In games like Hearthstone, I often have to change my perspective of
-          thinking from "what can I do now" to "what can my opponent possibly do
-          in the future".
+          In games like Hearthstone, I learn to be forward thinking, as I often
+          have to change my perspective of thinking from "what can I do now" to
+          "what can my opponent possibly do in the future".
         </p>
       </div>
     </FadeIn>
