@@ -13,8 +13,8 @@
       "path---blog-03-graduated-9903a1b232bf07791b9b.js.map"
     ],
     "path---blog": [
-      "path---blog-ec16bcec647c0b135ad6.js",
-      "path---blog-ec16bcec647c0b135ad6.js.map"
+      "path---blog-a2b95833e0eadd906f3b.js",
+      "path---blog-a2b95833e0eadd906f3b.js.map"
     ],
     "path---cv": [
       "path---cv-a0e39f21c11f6a62c5ab.js",
@@ -28,6 +28,10 @@
       "path---blog-00-website-published-06e56882d502d51bce22.js",
       "path---blog-00-website-published-06e56882d502d51bce22.js.map"
     ],
+    "path---blog-04-google-cloud-summit": [
+      "path---blog-04-google-cloud-summit-5adf0fba13f8e570bfac.js",
+      "path---blog-04-google-cloud-summit-5adf0fba13f8e570bfac.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-465fa466baef9c4129e5.js",
       "component---src-templates-blog-post-js-465fa466baef9c4129e5.js.map"
@@ -37,8 +41,8 @@
       "path---blog-01-md-format-ece7a1ee865a0f8ab652.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-4084641fb00e6f55cf9e.js",
-      "component---src-layouts-index-js-4084641fb00e6f55cf9e.js.map"
+      "component---src-layouts-index-js-96cb32bfe849e7f5f81c.js",
+      "component---src-layouts-index-js-96cb32bfe849e7f5f81c.js.map"
     ],
     "path---portfolio-projects": [
       "path---portfolio-projects-94ad0ee986af509cef98.js",
@@ -53,8 +57,8 @@
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-bf3a8b5cd837537237c1.js",
-      "path---my-files-bf3a8b5cd837537237c1.js.map"
+      "path---my-files-a2adef4f5eef6fb1ca5b.js",
+      "path---my-files-a2adef4f5eef6fb1ca5b.js.map"
     ],
     "component---src-pages-bio-js": [
       "component---src-pages-bio-js-68df96d5d1f7c9feafa5.js",
@@ -71,8 +75,8 @@
       "component---src-pages-cv-js-c4adc2774b939c164962.js.map"
     ],
     "path---portfolio": [
-      "path---portfolio-ec16bcec647c0b135ad6.js",
-      "path---portfolio-ec16bcec647c0b135ad6.js.map"
+      "path---portfolio-a2b95833e0eadd906f3b.js",
+      "path---portfolio-a2b95833e0eadd906f3b.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
@@ -83,9 +87,9 @@
       "component---src-pages-blog-js-1c4ee62e5600d2183d04.js.map"
     ],
     "app": [
-      "app-84c24f4cd597274ba0b5.js",
+      "app-a994bb7ec421d9fb9a6f.js",
       "build-js-styles.css",
-      "app-84c24f4cd597274ba0b5.js.map",
+      "app-a994bb7ec421d9fb9a6f.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-portfolio-js": [
