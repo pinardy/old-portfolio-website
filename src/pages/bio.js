@@ -1,12 +1,8 @@
 import React from "react";
 
-import styles from "./index.module.css";
 import FadeIn from "../utils/fade-in";
-import { rhythm } from "../utils/typography";
-import Link from "gatsby-link";
 
-export default ({ data }) => {
-  console.log(data);
+export default () => {
   return (
     <FadeIn
       x={{
@@ -17,7 +13,7 @@ export default ({ data }) => {
       }}
     >
       <div>
-        <h1> Bio </h1>
+        <h2> Bio </h2>
         <p>
           I graduated with a major in Information Systems Technology and Design
           from Singapore University of Technology and Design (SUTD).
@@ -30,19 +26,17 @@ export default ({ data }) => {
 
         <h3> Technical Background </h3>
         <p>
-          I started programming in 2016 in one of my freshmore courses when I
-          entered into university. I have been exposed to many different fields
-          such as web development, data science, internet-of-things and more. I
-          am always curious about the possibilities with technology.
+          I started programming in 2016 in university. I have been exposed to many 
+          different fields such as web development, data science, internet-of-things 
+          and more. I am always curious about the possibilities with technology.
         </p>
 
         <h3> Musical Soul </h3>
         <p>
           Music has always been a part of me from young. I started learning the
           piano from primary school. I joined the chinese orchestra in my middle
-          and high school, learning different chinese instruments In my own free
-          time, I play the acoustic guitar as well. I am still actively playing
-          the piano leisurely.
+          and high school, learning different chinese instruments. In my own free
+          time, I play the acoustic guitar and the piano leisurely.
         </p>
 
         <h3> Sports </h3>
@@ -58,14 +52,14 @@ export default ({ data }) => {
         </p>
 
         <p>
-          In games like Dota, I have to be able to maintain my composure and
-          think of the best course of action under very tight situations, while
+          In games like Dota, I need to maintain my composure and
+          think of the best action to take under tight situations, while
           keeping an eye on other elements of the game such as the enemy
           positions.
         </p>
 
         <p>
-          In games like Hearthstone, I learn to be forward thinking, as I often
+          In games like Hearthstone, I learn to think steps ahead, as I often
           have to change my perspective of thinking from "what can I do now" to
           "what can my opponent possibly do in the future".
         </p>

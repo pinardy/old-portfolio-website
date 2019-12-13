@@ -1,10 +1,7 @@
 import React from "react";
 
-import styles from './index.module.css';
 import FadeIn from '../utils/fade-in';
-import g from "glamorous";
 import './index.css';
-import { rhythm } from "../utils/typography";
 import Link from "gatsby-link"
 
 

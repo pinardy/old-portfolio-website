@@ -1,6 +1,5 @@
 import React from "react";
 
-import styles from './index.module.css';
 import FadeIn from '../utils/fade-in';
 import g from "glamorous";
 import './index.css';
@@ -29,7 +28,7 @@ export default ({ data }) => {
       }}
     > 
     <div>
-      <h1> Blog </h1>
+      <h2> Blog </h2>
       
       <h4>{d.length} Posts</h4>
 
@@ -39,7 +38,6 @@ export default ({ data }) => {
 
           <Link
             to={node.fields.slug}
-            css={{ textDecoration: `none`, color: `inherit` }}
           >
             
             <g.H4 marginBottom={rhythm(1 / 4)}>

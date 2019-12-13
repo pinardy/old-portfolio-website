@@ -11,7 +11,7 @@ export default () => (
         damping: 20
       }}
     >
-      <h1>C.V.</h1>
+      <h2>C.V.</h2>
 
       <p>
         To view my resume, click

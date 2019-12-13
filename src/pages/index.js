@@ -2,17 +2,14 @@ import React from "react";
 
 import styles from "./index.module.css";
 import FadeIn from "../utils/fade-in";
-import g from "glamorous";
 import "./index.css";
-import { rhythm } from "../utils/typography";
 
 import displayPic from "../assets/images/displaypic.jpg";
 import fbIcon from "../assets/images/fb-icon.svg";
 import ghIcon from "../assets/images/gh-icon.svg";
 import mdIcon from "../assets/images/medium-icon.svg";
 
-export default ({ data }) => {
-  console.log(data);
+export default () => {
   return (
     <FadeIn
       x={{
@@ -25,8 +22,8 @@ export default ({ data }) => {
       <div>
         <img src={displayPic} alt="displayPic" />
         <p>
-          I am a software engineer who graduated from SUTD under the Information
-          Systems and Design (ISTD) major. I am looking to improve myself in the
+          I am a software engineer who graduated from Singapore University of Technology & Design (SUTD) 
+          under the Information Systems and Design (ISTD) major. I am looking to improve myself in the
           areas of web development and software engineering.
         </p>
       </div>
