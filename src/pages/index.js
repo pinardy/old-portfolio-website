@@ -16,15 +16,15 @@ export default () => {
         start: 40,
         end: 0,
         stiffness: 70,
-        damping: 20
+        damping: 20,
       }}
     >
       <div>
         <img src={displayPic} alt="displayPic" />
         <p>
-          I am a software engineer who graduated from Singapore University of Technology & Design (SUTD) 
-          under the Information Systems and Design (ISTD) major. I am looking to improve myself in the
-          areas of web development and software engineering.
+          I am a software engineer who graduated from Singapore University of
+          Technology & Design (SUTD) under the Information Systems and Design
+          (ISTD) major. I enjoy the process of creating new things.
         </p>
       </div>
 
@@ -46,15 +46,6 @@ export default () => {
               href="https://github.com/pinardy"
             >
               <img src={ghIcon} className={styles.snIcon} alt="gh-icon" />
-            </a>
-          </li>
-          <li>
-            <a
-              rel="noopener noreferrer"
-              target="_blank"
-              href="https://medium.com/@pinardy"
-            >
-              <img src={mdIcon} className={styles.snIcon} alt="medium-icon" />
             </a>
           </li>
         </ul>
