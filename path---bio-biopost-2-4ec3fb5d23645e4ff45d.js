@@ -1,0 +1,2 @@
+webpackJsonp([0xc94a1bb989b1],{398:function(e,y){e.exports={data:{markdownRemark:{html:"<h2>More bio stuff!</h2>\n<h3>Title</h3>\n<h4>Goodbye world!</h4>\n<p>YEyeyeyeyeyeyey\nYEyeyeyeyeyeyey\nYEyeyeyeyeyeyey\neeeeeeee\nYEyeyeyeyeyeyey\nYEyeyeyeyeyeyey</p>\n<p>YEyeyeyeyeyeyey</p>\n<p>YEyeyeyeyeyeyey\nYEyeyeyeyeyeyey\nYEyeyeyeyeyeyey\nYEyeyeyeyeyeyey\nssssss</p>",frontmatter:{title:"Bio post 2"}}},pathContext:{slug:"/bio/biopost2/"}}}});
+//# sourceMappingURL=path---bio-biopost-2-4ec3fb5d23645e4ff45d.js.map
