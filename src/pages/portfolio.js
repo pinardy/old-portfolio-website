@@ -5,8 +5,6 @@ import "./index.css";
 import Link from "gatsby-link";
 
 export default ({ data }) => {
-  console.log(data);
-
   const d = data.allMarkdownRemark.edges.filter(({ node }) => {
     const reg = new RegExp("^/portfolio/*");
     if (node.fields.slug) {

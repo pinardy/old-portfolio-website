@@ -36,9 +36,7 @@ export default ({ data }) => {
 
         <div key={node.id}>
 
-          <Link
-            to={node.fields.slug}
-          >
+          <Link to={node.fields.slug}>
             
             <g.H4 marginBottom={rhythm(1 / 4)}>
               {node.frontmatter.title}{" "}

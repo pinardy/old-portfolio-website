@@ -19,8 +19,7 @@ export default () => (
           href="https://drive.google.com/open?id=1KrVutxSalZXgjw2om0KeXQAX8AJgDg8l"
           target="_blank"
         >
-          {" "}
-          here{" "}
+          {" here "}
         </a>
       </p>
 

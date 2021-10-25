@@ -7,7 +7,6 @@ import "./index.css";
 import displayPic from "../assets/images/displaypic.jpg";
 import fbIcon from "../assets/images/fb-icon.svg";
 import ghIcon from "../assets/images/gh-icon.svg";
-import mdIcon from "../assets/images/medium-icon.svg";
 
 export default () => {
   return (
