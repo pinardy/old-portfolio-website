@@ -1,2 +1,0 @@
-webpackJsonp([0xd794699ef5b8],{97:function(t,e,n){t.exports=n.p+"static/classy.2720ca8a.png"},70:function(t,e,n){"use strict";function s(t){return t&&t.__esModule?t:{default:t}}e.__esModule=!0;var a=n(97),u=s(a);e.default={title:"Classy",content:"\n\t\tTEXT HERE TEXT HERE TEXT HERE \n   \t ",links:[{name:"Source Code",url:"https://github.com/pinardy/Classy"}],img:u.default},t.exports=e.default}});
-//# sourceMappingURL=component---src-pages-projects-classy-desc-index-js-088f4a8909d47e59cd45.js.map
