@@ -5,8 +5,8 @@
       "component---src-pages-index-js-52b1a03a3787f5188fd6.js.map"
     ],
     "path---blog": [
-      "path---blog-23b74b15ce14c98e7560.js",
-      "path---blog-23b74b15ce14c98e7560.js.map"
+      "path---blog-95fe5bd9ba59331c45eb.js",
+      "path---blog-95fe5bd9ba59331c45eb.js.map"
     ],
     "path---cv": [
       "path---cv-a0e39f21c11f6a62c5ab.js",
@@ -23,6 +23,10 @@
     "path---blog-03-google-cloud-summit": [
       "path---blog-03-google-cloud-summit-11b3b06dd08d2e09ae1e.js",
       "path---blog-03-google-cloud-summit-11b3b06dd08d2e09ae1e.js.map"
+    ],
+    "path---blog-05-phoenix-project": [
+      "path---blog-05-phoenix-project-23ebfa740654e87e996a.js",
+      "path---blog-05-phoenix-project-23ebfa740654e87e996a.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-465fa466baef9c4129e5.js",
@@ -49,8 +53,8 @@
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-ab3fc697a41300c699b1.js",
-      "path---my-files-ab3fc697a41300c699b1.js.map"
+      "path---my-files-a4a7b466b9f6e8e5bcb4.js",
+      "path---my-files-a4a7b466b9f6e8e5bcb4.js.map"
     ],
     "component---src-pages-bio-js": [
       "component---src-pages-bio-js-e65b95ca9fd2814c31d0.js",
@@ -67,8 +71,8 @@
       "component---src-pages-cv-js-427f89a5c41ee63c04a4.js.map"
     ],
     "path---portfolio": [
-      "path---portfolio-23b74b15ce14c98e7560.js",
-      "path---portfolio-23b74b15ce14c98e7560.js.map"
+      "path---portfolio-95fe5bd9ba59331c45eb.js",
+      "path---portfolio-95fe5bd9ba59331c45eb.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
@@ -78,10 +82,14 @@
       "component---src-pages-blog-js-72d1dc3eda0721c8924a.js",
       "component---src-pages-blog-js-72d1dc3eda0721c8924a.js.map"
     ],
+    "path---blog-04-defence-tech-prize-copy": [
+      "path---blog-04-defence-tech-prize-copy-e13c347e278b7b52b94e.js",
+      "path---blog-04-defence-tech-prize-copy-e13c347e278b7b52b94e.js.map"
+    ],
     "app": [
-      "app-d98dd8d61ce7eaae11f8.js",
+      "app-ef123557c5f0717d9abd.js",
       "build-js-styles.css",
-      "app-d98dd8d61ce7eaae11f8.js.map",
+      "app-ef123557c5f0717d9abd.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-portfolio-js": [
