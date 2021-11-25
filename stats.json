@@ -5,8 +5,8 @@
       "component---src-pages-index-js-52b1a03a3787f5188fd6.js.map"
     ],
     "path---blog": [
-      "path---blog-95fe5bd9ba59331c45eb.js",
-      "path---blog-95fe5bd9ba59331c45eb.js.map"
+      "path---blog-9cef31edef16392fcab2.js",
+      "path---blog-9cef31edef16392fcab2.js.map"
     ],
     "path---cv": [
       "path---cv-a0e39f21c11f6a62c5ab.js",
@@ -40,6 +40,10 @@
       "path---blog-02-graduated-8b54ca50e2ac70e864e5.js",
       "path---blog-02-graduated-8b54ca50e2ac70e864e5.js.map"
     ],
+    "path---blog-06-making-of-a-manager": [
+      "path---blog-06-making-of-a-manager-f727b6127de4dca1a4c3.js",
+      "path---blog-06-making-of-a-manager-f727b6127de4dca1a4c3.js.map"
+    ],
     "path---portfolio-projects": [
       "path---portfolio-projects-7637449c1f34909215c6.js",
       "path---portfolio-projects-7637449c1f34909215c6.js.map"
@@ -53,8 +57,8 @@
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-a4a7b466b9f6e8e5bcb4.js",
-      "path---my-files-a4a7b466b9f6e8e5bcb4.js.map"
+      "path---my-files-2058158e41353f2195f5.js",
+      "path---my-files-2058158e41353f2195f5.js.map"
     ],
     "component---src-pages-bio-js": [
       "component---src-pages-bio-js-e65b95ca9fd2814c31d0.js",
@@ -71,8 +75,8 @@
       "component---src-pages-cv-js-427f89a5c41ee63c04a4.js.map"
     ],
     "path---portfolio": [
-      "path---portfolio-95fe5bd9ba59331c45eb.js",
-      "path---portfolio-95fe5bd9ba59331c45eb.js.map"
+      "path---portfolio-9cef31edef16392fcab2.js",
+      "path---portfolio-9cef31edef16392fcab2.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
@@ -87,9 +91,9 @@
       "path---blog-04-defence-tech-prize-copy-e13c347e278b7b52b94e.js.map"
     ],
     "app": [
-      "app-ef123557c5f0717d9abd.js",
+      "app-326a1a0f95408cceef37.js",
       "build-js-styles.css",
-      "app-ef123557c5f0717d9abd.js.map",
+      "app-326a1a0f95408cceef37.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-portfolio-js": [
